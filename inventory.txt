@@ -1,0 +1,5 @@
+
+I0001 Paracetamol Medicine 50
+I0002 PainKiller Medicine 35
+I0003 Duloxetine Medicine 100
+I0004 Cytrazine Medicine 2

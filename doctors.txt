@@ -1,0 +1,4 @@
+D0001 DrRaju Cardiology drraju.hms@hospital.com Raju@card
+D0002 DrMintu Neurology drmintu.hms@hospital.com Mintu@Neuro
+D0003 DrNatasha Orthopedic drnatasha.hms@hospital.com Natasha@Ortho
+D0004 DrOng Pediatrics drong.hms@hospital.com Ong@Pedia
