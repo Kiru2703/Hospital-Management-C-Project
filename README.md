@@ -1,4 +1,4 @@
-🏥 Hospital Management System (C Project)
+# 🏥 Hospital Management System (C Project)
 📌 Overview
 
 This is a console-based Hospital Management System written in C.  
